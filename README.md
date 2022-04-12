@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with HTML, CSS, Javascript, and React.
+- 🔭 I’m currently working with HTML, CSS, Javascript, React and Typescript. 
 - 🌱 I’m currently learning Typescript
 - 🤔 I’m looking for help with building personal projects.
 - 📫 How to reach me: <a href="mailto:jacobkool11@gmail.com?subject=Contact%20Jake%20Kool&amp;body=Jake,%0D%0A%0D%0A%0D%0A"> Email me! </a>
